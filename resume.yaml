@@ -1,0 +1,116 @@
+basic_information:
+  name: Benjamin Feifke
+  title: Data Scientist
+  email: benfeifke@gmail.com
+  phone: +1-781-835-6729
+  website: http://benfeifke.com
+  linkedin: https://www.linkedin.com/in/benjamin-feifke
+  github: https://github.com/bfeif
+education:
+  - institution: University of Rochester
+    degree: MS
+    subject: Data Science
+  - institution: University of Rochester
+    degree: BS
+    subject: Optical Engineering
+employment:
+  - employer: Delivery Hero
+    position: Senior Data Scientist, Incentive Science
+    start_date: 2023-02-01
+    end_date: present
+    work:
+      - Optimizing the way that Delivery Hero serves discounts and vouchers to customers as a lever for facilitating price-discrimination and for retaining the right customers.
+      - Executed opportunity analyses and presented to stakeholders to assist in product ideation and prioritization; led to identification of target customer segment and target opportunity of €20mil.
+      - Led deployment of team's first product, "Reducing Incentives from Retained Customers".
+  - employer: Delivery Hero
+    position: Senior Data Scientist, Location Science
+    start_date: 2020-07-01
+    end_date: 2023-01-01
+    work:
+      - Optimize and understand how Delivery Hero customers create and communicate their locations, as project lead and contributor.
+      - Use Apache Airflow, BigQuery, GCS, DataStudio, S3, DynamoDB, SageMaker, Python (Pandas, Polars, Sklearn), LGBM, XGBoost.
+      - Helped create Location Data Science Team--interviewed data scientists, and onboarded three; managed a junior data scientist; taught Apache Airflow to new joiners; built our first data pipelines, dashboards, and data product.
+      - Led project--through conception, research, model building, and deployment--to predict when delivery riders would have difficulty finding customers, and request that positively predicted addresses be updated by customers; operates on millions of orders per day in 20+ countries; AB-Test showed 27% reduction in customer-contacts for location-related reasons and 18% reduction in customer-rider chats started.
+      - Collaborated with Product to create projects; created long-term roadmaps and converted to timelines of executable tasks.
+      - Organized a weekly chess club and biweekly coffee breaks with teammates to maintain a healthy team culture during COVID-19 lockdown; started internal team journal club.
+      - Promoted from Data Scientist to Senior Data Scientist in July 2021.
+  - employer: Self Employed
+    position: Freelance Data Scientist, Tutor; World Traveler
+    start_date: 2019-02-01
+    end_date: 2020-05-01
+    work:
+      - Contracted data science work; completed contract in talent recruitment through freelance site Upwork; rated 5-stars on Upwork.
+      - Wrote blog Travelinguist about linguistics, language learning, and cultural experiences.
+      - Lived and volunteered in north Brazil while studying Portuguese; went from zero knowledge to Portuguese fluency in 6 months.
+      - Taught English and Guitar lessons to individual and group students; constructed and delivered lesson plans.
+  - employer: Yesware
+    position: Full Stack Engineer
+    start_date: 2018-11-01
+    end_date: 2019-01-01
+    work:
+      - Developed front- and back-end features in MongoDB, RabbitMQ, Ruby on Rails, AngularJS stack, in microservice architecture. 
+      - Deployed features to microservices under controlled rollout; validated in production; wrote unit tests (RSpec, Jasmine).
+      - Reviewed code (as reviewer and reviewee) in Agile engineering team in fast-paced startup environment.
+  - employer: Systems and Technology Research
+    position: Data Scientist
+    start_date: 2018-11-01
+    end_date: 2019-01-01
+    work:
+      - Analyzed spatial-temporal datasets as big as ~7 billion data points per day to solve unsupervised and supervised learning problems. 
+      - Developed and deployed scalable event detection systems that leverage geospatial, temporal, and semantic signals.
+      - Wrote slide decks and presented results and systems to both technical and non-technical government customer audiences.
+      - Mentored two junior technical staff members.
+      - Wrote sections for two proposals for United States government research contracts.
+skills:
+  data_science_and_machine_learning_tools:
+    - Python (Numpy, Scipy, Numba, Scikit-Learn, Pandas, Polars, Keras, Tensorflow)
+    - AWS (S3, DynamoDB, SageMaker)
+    - GCP (BigQuery, GCS, BigQueryML)
+    - SQL
+    - dbt
+    - Docker
+    - Apache Airflow
+    - Luigi
+    - Stan
+    - Edward
+    - MATLAB
+    - R
+  data_science_and_machine_learning_techniques:
+    - General Linear Models
+    - Gaussian Processes
+    - Time Series Analysis
+    - Optimization
+    - Vector Embeddings
+    - Linear Algebra
+    - Data Structures
+    - Algorithms
+    - Regression
+    - Deep Learning
+    - NLP
+    - Information Theory
+    - Statistics
+    - Bayesian Optimization
+  web_development:
+    - Flask
+    - HTML
+    - CSS
+    - Javascript
+    - Angular
+    - Typescript
+    - Ruby on Rails
+    - MongoDB
+    - Git
+    - Bash
+    - Django
+    - Postgres
+    - PostGIS
+projects:
+  - name: Blog
+    description: A blog about data science, language, and the data science of languages, with 4+ posts, 100+ followers, and 13k+ lifetime views.
+    link: https://medium.com/@benjaminfeifke
+  - name: denkmit
+    description: A Spaced-Repetition-Software terminal application specialized for German language-learning (Python, Django, Postgres).
+    link: https://github.com/bfeif/denkmit
+  - name: checkmymate
+    description: A website for investigating how to beat your friends in chess (Python, Flask).
+    link: http://checkmymate.co/
