@@ -30,7 +30,7 @@ employment:
       - Optimize and understand how Delivery Hero customers create and communicate their locations, as project lead and contributor.
       - Use Apache Airflow, BigQuery, GCS, DataStudio, S3, DynamoDB, SageMaker, Python (Pandas, Polars, Sklearn), LGBM, XGBoost.
       - Helped create Location Data Science Team--interviewed data scientists, and onboarded three; managed a junior data scientist; taught Apache Airflow to new joiners; built our first data pipelines, dashboards, and data product.
-      - Led project--through conception, research, model building, and deployment--to predict when delivery riders would have difficulty finding customers, and request that positively predicted addresses be updated by customers; operates on millions of orders per day in 20+ countries; AB-Test showed 27% reduction in customer-contacts for location-related reasons and 18% reduction in customer-rider chats started.
+      - Led project--through conception, research, model building, and deployment--to predict when delivery riders would have difficulty finding customers, and request that positively predicted addresses be updated by customers; operates on millions of orders per day in 20+ countries; AB-Test showed 27% reduction in location-related customer-contacts and 18% reduction in customer-rider chats started.
       - Collaborated with Product to create projects; created long-term roadmaps and converted to timelines of executable tasks.
       - Organized a weekly chess club and biweekly coffee breaks with teammates to maintain a healthy team culture during COVID-19 lockdown; started internal team journal club.
       - Promoted from Data Scientist to Senior Data Scientist in July 2021.
@@ -106,11 +106,15 @@ skills:
     - PostGIS
 projects:
   - name: Blog
-    description: A blog about data science, language, and the data science of languages, with 4+ posts, 100+ followers, and 13k+ lifetime views.
+    description:
+      - A blog about data science, language, and the data science of languages, with some posts listed in Towards Data Science.
+      - 4+ posts, 100+ followers, and 14k+ lifetime views.
     link: https://medium.com/@benjaminfeifke
   - name: denkmit
-    description: A Spaced-Repetition-Software terminal application specialized for German language-learning (Python, Django, Postgres).
+    description:
+      - A Spaced-Repetition-Software (SRS) terminal application specialized for German language-learning (Python, Django, Postgres).
     link: https://github.com/bfeif/denkmit
   - name: checkmymate
-    description: A website for investigating how to beat your friends in chess (Python, Flask).
+    description:
+      - A website for investigating how to beat your friends in chess (Python, Flask).
     link: http://checkmymate.co/
