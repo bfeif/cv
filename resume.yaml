@@ -1,6 +1,6 @@
 basic_information:
   name: Benjamin Feifke
-  title: Data Scientist
+  title: Data Scientist, Software Engineer
   email: benfeifke@gmail.com
   phone: +1-781-835-6729
   website: http://benfeifke.com
@@ -14,6 +14,12 @@ education:
     degree: BS
     subject: Optical Engineering
 employment:
+  - employer: Self Employed
+    position: Freelance Software Engineer
+    start_date: 2022-11-15
+    end_date: 2023-08-23
+    work:
+      - Built automated reporting system for client in Building Energy Performance space, adding increased accuracy and visibility to energy cost calculations, and reducing monthly person-hours spent on reporting by 90% (Python, Plotly, Polars, Scikit-Learn).
   - employer: Delivery Hero
     position: Senior Data Scientist, Incentive Science
     start_date: 2023-02-01
