@@ -2,7 +2,8 @@ basic_information:
   name: Benjamin Feifke
   title: Data Scientist, Software Engineer
   email: benfeifke@gmail.com
-  phone: +1-781-835-6729
+  phone (US): +1-781-835-6729
+  phone (DE): +49-157-372-32189
   website: http://benfeifke.com
   linkedin: https://www.linkedin.com/in/benjamin-feifke
   github: https://github.com/bfeif
@@ -17,17 +18,28 @@ employment:
   - employer: Self Employed
     position: Freelance Software Engineer
     start_date: 2022-11-15
-    end_date: 2023-08-23
+    end_date: Present
     work:
-      - Built automated reporting system for client in Building Energy Performance space, adding increased accuracy and visibility to energy cost calculations, and reducing monthly person-hours spent on reporting by 90% (Python, Plotly, Polars, Scikit-Learn).
+      - Built automated reporting system for client in Building Energy Performance space, adding increased accuracy and visibility to energy cost calculations, and reducing monthly person-hours spent on reporting from 25 person-hours to 2 (Python, Plotly, Polars, Pandas, Scikit-Learn).
+      - Performed 
+  - employer: truemetrics
+    position: Senior Machine Learning Engineer
+    start_date: 2023-11-16
+    end_date: 2024-02-28
+    work:
+      - Lead engineer and first employee in Y-Combinator backed last-mile logistics startup.
+      - Optimized the company's data ingestion and data warehouse solution--introduced handling and reporting of bad-data and rewrote raw data ingestion module; improvements reduced average query time of high-frequency queries by 80% (Python, Apache Spark, AWS Kinesis, Glue, Athena).
+      - Introduced error monitoring to backend services and applications (Sentry, AWS Lambda).
+      - Identified and fixed critical error in deployed ML model performance, using feature analysis and engineering techniques such as SHAP; made solution reusable for future model monitoring.
+      - Standardized and optimized ML prediction pipeline and extraction of data artifacts to customer-facing API endpoint (Python, AWS Lambda, DynamoDB).
   - employer: Delivery Hero
     position: Senior Data Scientist, Incentive Science
     start_date: 2023-02-01
-    end_date: present
+    end_date: 2023-11-15
     work:
-      - Optimizing the way that Delivery Hero serves discounts and vouchers to customers as a lever for facilitating price-discrimination and for retaining the right customers.
-      - Executed opportunity analyses and presented to stakeholders to assist in product ideation and prioritization; led to identification of target customer segment and target opportunity of €20mil.
-      - Led deployment of team's first product, "Reducing Incentives from Retained Customers".
+      - Optimizing the way that Delivery Hero serves discounts and vouchers to customers as a lever for facilitating price-discrimination and for retaining valuable customers.
+      - Executed opportunity analyses and presented to stakeholders to assist in product ideation and prioritization; led to identification of target customer segment and target opportunity of €20mil for a product "Reducing Incentives from Retained Customers".
+      - Designed, built, and deployed the product "Reducing Incentives from Retained Customers"; designed AB-Test approach, and demonstrated (Apache Airflow, GCP BigQuery, AWS DynamoDB, Python).
   - employer: Delivery Hero
     position: Senior Data Scientist, Location Science
     start_date: 2020-07-01
@@ -114,7 +126,7 @@ projects:
   - name: Blog
     description:
       - A blog about data science, language, and the data science of languages, with some posts listed in Towards Data Science.
-      - 4+ posts, 100+ followers, and 14k+ lifetime views.
+      - 4+ posts, 200+ followers, and 14k+ lifetime views.
     link: https://medium.com/@benjaminfeifke
   - name: denkmit
     description:
