@@ -23,7 +23,7 @@ employment:
       - Deliver Data Science and Software Engineering solutions for select client engagements--
       - Built automated reporting system for US client in Building Energy Performance space, adding increased accuracy and visibility to energy cost calculations, and reducing monthly person-hours spent on reporting from 25 person-hours to 2 (Python, Plotly, Polars, Pandas, Scikit-Learn).
       - Performed NLP analysis of Twitter data to detect and monitor global geopolitical trends pertaining to Covid-19 (Python, Pandas, Scikit-Learn).
-      - (Current) Building cloud data warehouse for client in hotel procurement industry; writing ingestion scripts and optimizing tables for querying (Google Cloud, BigQuery, Python).
+      - (Current) Architecting and building cloud data warehouse for client in hotel procurement industry; writing ingestion scripts and optimizing table designs for querying and dashboards (Google Cloud, BigQuery, Python).
   - employer: truemetrics
     position: Senior Machine Learning Engineer
     start_date: 2023-11-16
