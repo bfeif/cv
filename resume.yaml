@@ -41,7 +41,7 @@ employment:
     work:
       - Optimizing the way that Delivery Hero serves discounts and vouchers to customers as a lever for facilitating price-discrimination and for retaining valuable customers.
       - Executed opportunity analyses and presented to stakeholders to assist in product ideation and prioritization; led to identification of target customer segment and target opportunity of €20mil for a product "Reducing Incentives from Retained Customers".
-      - Designed, built, and deployed the product "Reducing Incentives from Retained Customers"; designed AB-Test approach, and demonstrated (Apache Airflow, GCP BigQuery, AWS DynamoDB, Python).
+      - Designed, built, and deployed the product "Reducing Incentives from Retained Customers"; designed AB-Test approach, and demonstrated 1.2% increase in profit-per-customer, without losing any customers (Apache Airflow, GCP BigQuery, AWS DynamoDB, Python).
   - employer: Delivery Hero
     position: Senior Data Scientist, Location Science
     start_date: 2020-07-01
