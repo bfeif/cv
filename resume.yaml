@@ -1,6 +1,6 @@
 basic_information:
   name: Benjamin Feifke
-  title: Data Scientist, Software Engineer
+  title: Senior Data Scientist and Software Engineer
   email: benfeifke@gmail.com
   phone (US): +1-781-835-6729
   phone (DE): +49-157-372-32189
@@ -16,12 +16,14 @@ education:
     subject: Optical Engineering
 employment:
   - employer: Self Employed
-    position: Freelance Software Engineer
+    position: Freelance Senior Data Scientist and Software Engineer
     start_date: 2022-11-15
     end_date: Present
     work:
-      - Built automated reporting system for client in Building Energy Performance space, adding increased accuracy and visibility to energy cost calculations, and reducing monthly person-hours spent on reporting from 25 person-hours to 2 (Python, Plotly, Polars, Pandas, Scikit-Learn).
-      - Performed 
+      - Deliver Data Science and Software Engineering solutions for select client engagements--
+      - Built automated reporting system for US client in Building Energy Performance space, adding increased accuracy and visibility to energy cost calculations, and reducing monthly person-hours spent on reporting from 25 person-hours to 2 (Python, Plotly, Polars, Pandas, Scikit-Learn).
+      - Performed NLP analysis of Twitter data to detect and monitor global geopolitical trends pertaining to Covid-19 (Python, Pandas, Scikit-Learn).
+      - (Current) Building cloud data warehouse for client in hotel procurement industry; writing ingestion scripts and optimizing tables for querying (Google Cloud, BigQuery, Python).
   - employer: truemetrics
     position: Senior Machine Learning Engineer
     start_date: 2023-11-16
